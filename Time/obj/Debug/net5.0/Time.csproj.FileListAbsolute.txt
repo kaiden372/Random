@@ -1,0 +1,16 @@
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.exe
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.deps.json
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.runtimeconfig.json
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.runtimeconfig.dev.json
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.dll
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\ref\Time.dll
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\bin\Debug\net5.0\Time.pdb
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.csprojAssemblyReference.cache
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.AssemblyInfoInputs.cache
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.AssemblyInfo.cs
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.dll
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\ref\Time.dll
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.pdb
+C:\Users\k.ziegler\OneDrive - Saint Kentigern\School Subjects\Computer Scinece\Programing\Time\obj\Debug\net5.0\Time.genruntimeconfig.cache
